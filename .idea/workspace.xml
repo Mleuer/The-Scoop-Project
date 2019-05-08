@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bff2632-aed5-4919-a284-60317246a0b1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="327" column="15" lean-forward="true" selection-start-line="327" selection-start-column="15" selection-end-line="327" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/mocha/lib/runnable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5205">
+              <caret line="347" column="20" selection-start-line="347" selection-start-column="20" selection-end-line="347" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="377" column="23" selection-start-line="377" selection-start-column="23" selection-end-line="377" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/test.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="880" />
+    <option name="y" value="23" />
+    <option name="width" value="1151" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project-3-the-scoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-3-the-scoop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-3-the-scoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-3-the-scoop" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.test">
+    <configuration name="test" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scoop - server.js: ./comments POST.routes['/comments'].POST should create a new comment" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/test.js</test-file>
+      <test-names>
+        <name value="Scoop - server.js: " />
+        <name value="/comments POST" />
+        <name value="routes['/comments'].POST should create a new comment" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should delete an existing comment" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/test.js</test-file>
+      <test-names>
+        <name value="Scoop - server.js: " />
+        <name value="/comments/:id DELETE" />
+        <name value="routes['/comments/:id'].DELETE should delete an existing comment" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should remove a deleted comment ID from the author's comment IDs" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/test.js</test-file>
+      <test-names>
+        <name value="Scoop - server.js: " />
+        <name value="/comments/:id DELETE" />
+        <name value="routes['/comments/:id'].DELETE should remove a deleted comment ID from the author's comment IDs" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should return a 404 response with a non-existent comment ID" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/test.js</test-file>
+      <test-names>
+        <name value="Scoop - server.js: " />
+        <name value="/comments/:id DELETE" />
+        <name value="routes['/comments/:id'].DELETE should return a 404 response with a non-existent comment ID" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.Scoop - server.js: ./comments POST.routes['/comments'].POST should create a new comment" />
+      <item itemvalue="npm.test" />
+      <item itemvalue="Mocha.Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should delete an existing comment" />
+      <item itemvalue="Mocha.Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should remove a deleted comment ID from the author's comment IDs" />
+      <item itemvalue="Mocha.Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should return a 404 response with a non-existent comment ID" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should return a 404 response with a non-existent comment ID" />
+        <item itemvalue="Mocha.Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should remove a deleted comment ID from the author's comment IDs" />
+        <item itemvalue="Mocha.Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should delete an existing comment" />
+        <item itemvalue="Mocha.Scoop - server.js: ./comments POST.routes['/comments'].POST should create a new comment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bff2632-aed5-4919-a284-60317246a0b1" name="Default Changelist" comment="" />
+      <created>1557184436658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557184436658</updated>
+      <workItem from="1557184437770" duration="3989000" />
+      <workItem from="1557268331903" duration="11580000" />
+      <workItem from="1557351069241" duration="4798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Scoop_-_server_js____comments_POST_routes['_comments']_POST_should_create_a_new_comment - 2019.05.06 at 17h 04m 13s.xml">
+      <configuration name="Scoop - server.js: ./comments POST.routes['/comments'].POST should create a new comment" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Scoop_-_server_js____comments_POST_routes['_comments']_POST_should_create_a_new_comment - 2019.05.06 at 17h 04m 54s.xml">
+      <configuration name="Scoop - server.js: ./comments POST.routes['/comments'].POST should create a new comment" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Scoop_-_server_js____comments_POST_routes['_comments']_POST_should_create_a_new_comment - 2019.05.06 at 17h 11m 25s.xml">
+      <configuration name="Scoop - server.js: ./comments POST.routes['/comments'].POST should create a new comment" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Scoop_-_server_js____comments_POST_routes['_comments']_POST_should_create_a_new_comment - 2019.05.06 at 17h 21m 35s.xml">
+      <configuration name="Scoop - server.js: ./comments POST.routes['/comments'].POST should create a new comment" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Scoop_-_server_js____comments__id_DELETE_routes['_comments__id']_DELETE_should_delete_an_existing_comment - 2019.05.08 at 15h 36m 01s.xml">
+      <configuration name="Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should delete an existing comment" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Scoop_-_server_js____comments__id_DELETE_routes['_comments__id']_DELETE_should_delete_an_existing_comment - 2019.05.08 at 15h 36m 47s.xml">
+      <configuration name="Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should delete an existing comment" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Scoop_-_server_js____comments__id_DELETE_routes['_comments__id']_DELETE_should_delete_an_existing_comment - 2019.05.08 at 15h 37m 03s.xml">
+      <configuration name="Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should delete an existing comment" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Scoop_-_server_js____comments__id_DELETE_routes['_comments__id']_DELETE_should_remove_a_deleted_comment_ID_from_the_author's_comment_IDs - 2019.05.08 at 15h 38m 52s.xml">
+      <configuration name="Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should remove a deleted comment ID from the author's comment IDs" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Scoop_-_server_js____comments__id_DELETE_routes['_comments__id']_DELETE_should_remove_a_deleted_comment_ID_from_the_author's_comment_IDs - 2019.05.08 at 15h 41m 03s.xml">
+      <configuration name="Scoop - server.js: ./comments/:id DELETE.routes['/comments/:id'].DELETE should remove a deleted comment ID from the author's comment IDs" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20367000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="880" y="23" width="1151" height="1057" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21037999" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32908705" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39915073" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test/test.js</url>
+          <line>377</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="mocha-javascript-test-runner">
+        <watch expression="database.comments[&quot;1&quot;]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>database.comments[request.body.comment.id]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request.body.comment.body</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request.body</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>originalNextCommentId</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>database.comments[1]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>database.nextCommentId</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/mocha/lib/runnable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5205">
+          <caret line="347" column="20" selection-start-line="347" selection-start-column="20" selection-end-line="347" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="377" column="23" selection-start-line="377" selection-start-column="23" selection-end-line="377" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="327" column="15" lean-forward="true" selection-start-line="327" selection-start-column="15" selection-end-line="327" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
