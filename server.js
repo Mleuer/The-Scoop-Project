@@ -37,10 +37,10 @@ const routes = {
     'DELETE': deleteComment
   },
   '/comments/:id/upvote': {
-
+    'PUT': upvoteComment
   },
   '/comments/:id/downvote': {
-
+    'PUT': downvoteComment
   }
 };
 
@@ -330,6 +330,13 @@ function determineResponseCodeForDeleteComment(id) {
   return 204;
 }
 
+function determineResponseCodeForCommentVote(id, request) {
+  if (request.body && request.body.username && database.users[request.body.username] && database.comments[id]) {
+    return 200;
+  }
+  else return 400;
+}
+
 function createCommentInDatabase(comment) {
     database.comments[comment.id] = comment;
     database.nextCommentId++;
@@ -396,6 +403,42 @@ function deleteComment(url) {
   return response;
 }
 
+function upvoteComment(url, request) {
+  const id = extractCommentIDFromURL(url);
+  const response = {
+    status: determineResponseCodeForCommentVote(id, request),
+    body: {}
+  };
+  if (response.status === 400) {
+    return response;
+  }
+  const username = request.body.username;
+  let comment = database.comments[id];
+  comment = upvote(comment, username);
+
+  response.body.comment = comment;
+
+  return response;
+}
+
+
+function downvoteComment(url, request) {
+  const id = extractCommentIDFromURL(url);
+  const response = {
+    status: determineResponseCodeForCommentVote(id, request),
+    body: {}
+  };
+  if (response.status === 400) {
+    return response;
+  }
+  const username = request.body.username;
+  let comment = database.comments[id];
+  comment = downvote(comment, username);
+
+  response.body.comment = comment;
+
+  return response;
+}
 // Write all code above this line.
 
 const http = require('http');
